@@ -17,4 +17,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-reformat-department-table](https://github.com/AnimeshGarg1503/LeetCode-Solutions/tree/master/1301-reformat-department-table) |
 | [1523-capital-gainloss](https://github.com/AnimeshGarg1503/LeetCode-Solutions/tree/master/1523-capital-gainloss) |
 | [1541-top-travellers](https://github.com/AnimeshGarg1503/LeetCode-Solutions/tree/master/1541-top-travellers) |
+| [1734-bank-account-summary-ii](https://github.com/AnimeshGarg1503/LeetCode-Solutions/tree/master/1734-bank-account-summary-ii) |
 <!---LeetCode Topics End-->
