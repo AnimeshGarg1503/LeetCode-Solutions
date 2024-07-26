@@ -20,4 +20,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1734-bank-account-summary-ii](https://github.com/AnimeshGarg1503/LeetCode-Solutions/tree/master/1734-bank-account-summary-ii) |
 | [1837-daily-leads-and-partners](https://github.com/AnimeshGarg1503/LeetCode-Solutions/tree/master/1837-daily-leads-and-partners) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/AnimeshGarg1503/LeetCode-Solutions/tree/master/1892-find-total-time-spent-by-each-employee) |
+| [1948-rearrange-products-table](https://github.com/AnimeshGarg1503/LeetCode-Solutions/tree/master/1948-rearrange-products-table) |
 <!---LeetCode Topics End-->
