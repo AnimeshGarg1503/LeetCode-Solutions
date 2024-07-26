@@ -12,4 +12,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0610-triangle-judgement](https://github.com/AnimeshGarg1503/LeetCode-Solutions/tree/master/0610-triangle-judgement) |
 | [0627-swap-salary](https://github.com/AnimeshGarg1503/LeetCode-Solutions/tree/master/0627-swap-salary) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/AnimeshGarg1503/LeetCode-Solutions/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1174-sales-analysis-iii](https://github.com/AnimeshGarg1503/LeetCode-Solutions/tree/master/1174-sales-analysis-iii) |
 <!---LeetCode Topics End-->
